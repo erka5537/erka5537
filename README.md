@@ -12,7 +12,6 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif" width="500" height="320" />
 
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
