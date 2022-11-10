@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://imgflip.com/gif/70bgr0" width="500" height="320" />
+<img align="right" alt="GIF" src="https://drive.google.com/file/d/1FHaZo-5gl_sJYCuy1QeoHd4c-lUUytkp/view?usp=share_link" width="500" height="320" />
 
 ### 📩 Connect with me:
 
