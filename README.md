@@ -40,7 +40,11 @@
 [windows]: https://www.microsoft.com/windows/
 [xd]: https://www.adobe.com/products/xd.html
 
+<br />
+
 ---
+
+<br />
 
 ### GitHub Analytics 📊
 
