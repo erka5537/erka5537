@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/115114695/201223740-d48a8b3f-8d32-45b2-b0c5-985911faff82.gif)
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -21,9 +22,7 @@
 [gmail]: mailto:erkamkilinc55@gmail.com
 <br />
 
-<div>
 ### 🔧 Languages and Tools:
-</div>
     
 [<img align="right" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
