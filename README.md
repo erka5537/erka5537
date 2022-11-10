@@ -23,7 +23,7 @@
 [gmail]: mailto:erkamkilinc55@gmail.com
 <br />
   
-# RTL title🔧 Languages and Tools:
+# RTL title
 <p align="right">### 🔧 Languages and Tools:</p>
 
     
