@@ -8,8 +8,6 @@
 - 🥅 2023 Goals: Keep improving yourself in the software field 🌎 Go abroad and learn a language 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play ping pong 🏓, play football ⚽️ and video game 🎮
 
-<br />
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
