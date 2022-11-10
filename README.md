@@ -44,7 +44,6 @@
 
 ---
 
-<br />
 
 ### GitHub Analytics 📊
 
