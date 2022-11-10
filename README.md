@@ -10,7 +10,8 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1FHaZo-5gl_sJYCuy1QeoHd4c-lUUytkp/view?usp=share_link" width="500" height="320" />
+![70bgr0](https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif)
+
 
 ### 📩 Connect with me:
 
