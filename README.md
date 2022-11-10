@@ -4,7 +4,7 @@
 
 ## I am a trainee 👨‍🎓 in Full-Stack Automation Engineer 🚀,  ✍ and Student 👨‍🎓!
 - 🌱 I’m currently learning 🔭
-- 👯 After the course is over, I want to work in a good IT company. 👩‍💻 Maybe I'll be a developer later on. I would like this. 🎨
+- 👯 After the course is over, I want to work in a good IT company. 👩‍💻 Maybe I'll be a developer later on, i would like this. 🎨
 - 🥅 2023 Goals: Keep improving yourself in the software field 🌎 Go abroad and learn a language 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play ping pong 🏓, play football ⚽️ and video game 🎮
 
