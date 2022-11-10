@@ -39,8 +39,8 @@
 [java]: https://www.java.com/
 [windows]: https://www.microsoft.com/windows/
 [xd]: https://www.adobe.com/products/xd.html
+
 ---
-<br />
 
 ### GitHub Analytics 📊
 
