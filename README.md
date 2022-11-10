@@ -37,7 +37,7 @@
 
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/erka5537
 [java]: https://www.java.com/
 [windows]: https://www.microsoft.com/windows/
 [xd]: https://www.adobe.com/products/xd.html
