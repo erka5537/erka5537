@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://imgflip.com/gif/70bgr0" width="360" height="360" />
+<img align="right" alt="GIF" src="https://imgflip.com/gif/70bgr0" width="500" height="320" />
 
 ### 📩 Connect with me:
 
