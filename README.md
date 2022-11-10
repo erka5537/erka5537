@@ -1,4 +1,5 @@
-### Hi there 👋![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/115114695/201223740-d48a8b3f-8d32-45b2-b0c5-985911faff82.gif)
+### Hi there 👋!![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/115114695/201223863-16bbec0a-8c82-41ef-bfaf-aeda37f64475.gif)
+
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
