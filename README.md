@@ -10,7 +10,7 @@
 
 <br />
 
-![70bgr0](https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif)
+<img align="right" ![70bgr0](https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif)
 
 
 ### 📩 Connect with me:
