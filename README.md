@@ -16,7 +16,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <br />
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif" width="360" height="360" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201219684-a65c02ae-ab1e-47c5-a559-1de38bd0f9d7.gif" width="360" height="360" />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
