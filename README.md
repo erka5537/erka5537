@@ -12,7 +12,17 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/>]
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
+[gmail]: mailto:erkamkilinc55@gmail.com
+<br />
 
 <br />
 
@@ -25,6 +35,18 @@
 [<img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />][windows]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
+<br />
+
+[git]: https://git-scm.com/
+[android]: https://www.android.com/
+[github]: https://github.com/IbrahimTalha0
+[java]: https://www.java.com/
+[windows]: https://www.microsoft.com/windows/
+[xd]: https://www.adobe.com/products/xd.html
+
+<br />
+<br />
+
 
 <br />
 <br />
@@ -35,5 +57,5 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erka5537&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
