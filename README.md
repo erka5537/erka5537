@@ -23,7 +23,7 @@
 [gmail]: mailto:erkamkilinc55@gmail.com
 <br />
   
-<p dir='rtl' align='right'>### 🔧 Languages and Tools:</p>
+<p dir='rtl' align='right'>### 🔧 Languages and Tools ###</p>
 <p align="right">### 🔧 Languages and Tools:</p>
 
     
