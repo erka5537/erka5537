@@ -23,7 +23,7 @@
 [gmail]: mailto:erkamkilinc55@gmail.com
 <br />
   
-<p align="right">** 🔧 Languages and Tools:**</p>
+<p align="right">**🔧 Languages and Tools:**</p>
 
     
 [<img align="right" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
