@@ -21,7 +21,6 @@
 
 [linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
 [gmail]: mailto:erkamkilinc55@gmail.com
-<br />
   
 
 ### 🔧 Languages and Tools:
