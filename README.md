@@ -15,7 +15,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201231024-60df5b74-37d9-4842-88c6-a681b0ae822f.gif" width="360" height="348" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201231024-60df5b74-37d9-4842-88c6-a681b0ae822f.gif" width="500" height="500" />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
@@ -47,5 +47,5 @@
 
 ### GitHub Analytics 📊
 
-  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erka5537&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erka5537&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
