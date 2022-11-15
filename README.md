@@ -14,12 +14,16 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://user-images.githubusercontent.com/115114695/202043528-2764250a-cb9c-4c3a-8048-3d83a51f9474.png" />][youtube]
+
+
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201231024-60df5b74-37d9-4842-88c6-a681b0ae822f.gif" width="360" height="410" />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
 [gmail]: mailto:erkamkilinc55@gmail.com
+[youtube]: https://www.youtube.com/channel/UC7jZbFAMLjcYG3EyGpSKUdg
   
 ---
 ### 🔧 Languages and Tools:
