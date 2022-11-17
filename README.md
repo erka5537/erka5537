@@ -21,7 +21,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201231024-60df5b74-37d9-4842-88c6-a681b0ae822f.gif" width="360" height="410" />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-7888a4256/
+[linkedin]: https://www.linkedin.com/in/erkam-kilin%C3%A7-764603257/
 [gmail]: mailto:erkamkilinc55@gmail.com
 [youtube]: https://www.youtube.com/channel/UC7jZbFAMLjcYG3EyGpSKUdg
   
