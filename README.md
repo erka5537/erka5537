@@ -33,7 +33,7 @@
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][java]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />][windows]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+[<img align="left" alt="Adobe XD" width="26px" src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?w=2000" />][html]
 
 <br />
 
@@ -42,7 +42,7 @@
 [github]: https://github.com/erka5537
 [java]: https://www.java.com/
 [windows]: https://www.microsoft.com/windows/
-[xd]: https://www.adobe.com/products/xd.html
+[html]: https://html.com/
 
 <br />
 
