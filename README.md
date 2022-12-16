@@ -11,8 +11,8 @@
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="30" src="https://user-images.githubusercontent.com/115114695/202043982-d6ee08d1-a3dc-4510-8361-6b30128b9bd9.png" />][youtube]
+[<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/115114695/202043982-d6ee08d1-a3dc-4510-8361-6b30128b9bd9.png" />][youtube]
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115114695/201231024-60df5b74-37d9-4842-88c6-a681b0ae822f.gif" width="360" height="410" />
