@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://media0.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif" width="845" height="70" />
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
