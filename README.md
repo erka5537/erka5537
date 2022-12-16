@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media0.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif" width="700" height="70" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif" width="700" height="60" />
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
