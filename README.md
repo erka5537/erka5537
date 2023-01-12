@@ -10,7 +10,7 @@
 - 🥅 2023 Goals: Keep improving yourself in the software field 🌎 Go abroad and learn a language 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play ping pong 🏓, play football ⚽️ and video game 🎮
 
-### 📩 Connect with me:
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 [<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -51,6 +51,13 @@
 
 
 ### GitHub Analytics 📊
+
+<p align="left">
+          <a href="https://github.com/erka5537/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erka5537&theme=gruvbox&layout=compact&hide_border=true"
+          alt="erka5537 :: Top Langs by repo" />
+          </a>
+        </p>
 
   <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erka5537&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
