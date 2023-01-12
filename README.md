@@ -54,9 +54,9 @@
 
 <p align="left">
 <a href="https://github.com/erka5537">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erka5537&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erka5537&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="100em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erka5537&theme=radical&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erka5537&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erka5537&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erka5537&theme=radical&include_all_commits=true&count_private=true" alt="mukireus"/>
 </a>
 </p>
 
