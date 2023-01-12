@@ -53,14 +53,12 @@
 ### GitHub Analytics 📊
 
 <p align="left">
-          <a href="https://github.com/erka5537/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erka5537&theme=gruvbox&layout=compact&hide_border=true"
-          alt="erka5537 :: Top Langs by repo" />
-          </a>
-        </p>
-
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erka5537&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+<a href="https://github.com/erka5537">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erka5537&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erka5537&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erka5537&theme=radical&include_all_commits=true&count_private=true" alt="mukireus"/>
 </a>
+</p>
 
 <br />
 <br />
