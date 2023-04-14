@@ -13,7 +13,7 @@
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 [<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="26" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" height="26" width="36" src="https://user-images.githubusercontent.com/115114695/202043982-d6ee08d1-a3dc-4510-8361-6b30128b9bd9.png" />][youtube]
 
 
@@ -32,7 +32,7 @@
 [<img align="left" alt="HTML" width="30px" src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?w=2000" />][html]
 [<img align="left" alt="VSCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />][github]
 [<img align="left" alt="Windows" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />][windows]
 
 <br />
