@@ -12,7 +12,7 @@
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-[<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
 [<img align="left" height="26" width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" height="26" width="36" src="https://user-images.githubusercontent.com/115114695/202043982-d6ee08d1-a3dc-4510-8361-6b30128b9bd9.png" />][youtube]
 
