@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-##👩‍💻I am a Software Test Specialist 🔍
+## 👩‍💻I am a Software Test Specialist 🔍
 - 📊 I am open to new job and project offers 📑
 - 🔅 I love taking new steps in software development. 🚶‍♂️
 - 🕑 2026 Goals: Produce a brilliant software project that meets a need with an unheard-of idea. 🌎 Expand internationally
