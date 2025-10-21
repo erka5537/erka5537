@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I am a trainee 👨‍🎓 in Full-Stack Automation Engineer 🚀,  ✍ and Student 👨‍🎓!
-- 🌱 I’m currently learning 🔭
-- 👯 After the course is over, I want to work in a good IT company. 👩‍💻 Maybe I'll be a developer later on, i would like this. 🎨
-- 🥅 2023 Goals: Keep improving yourself in the software field 🌎 Go abroad and learn a language 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play ping pong 🏓, play football ⚽️ and video game 🎮
+##👩‍💻I am a Software Test Specialist 🔍
+- 📊 I am open to new job and project offers 📑
+- 🔅 I love taking new steps in software development. 🚶‍♂️
+- 🕑 2026 Goals: Produce a brilliant software project that meets a need with an unheard-of idea. 🌎 Expand internationally
+- ⚡ Fun fact: I enjoy swimming 🏊‍♀️, playing table tennis 🏓, playing soccer ⚽️, and playing video games 🎮.
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
